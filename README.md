@@ -11,6 +11,9 @@ The goal is to:
 
 ---
 
+## Live app
+https://retail-sales-forecasting-zpyb68frh9tsumanjsbfar.streamlit.app/
+
 ## Set up environment
   - Install Python 3.10+
   - Create a virtual environment (venv or conda)
